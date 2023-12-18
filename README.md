@@ -4,7 +4,9 @@ I'm Farrell Matthew Lim, but people call me Farrell. I'm an undergraduate studen
 
 My DMs are always open, so feel free to follow my twitter!
 
-[![Twitter](https://img.shields.io/badge/farrellmattthew-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/farrellmattthew)
+<a href="https://twitter.com/farrellmattthew">
+  <img src="https://img.shields.io/badge/farrellmattthew-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
 ## Statistics
 <a href="https://github.com/tapeds?tab=repositories">
