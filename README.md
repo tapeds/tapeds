@@ -1,6 +1,6 @@
 # Hi 👋
 
-I'm Farrell Matthew Lim, but people call me Farrell. I'm an undergraduate student at Institut Teknologi Sepuluh Nopember majoring in computer science. I have a strong interest in web programming, particularly within the React ecosystem and Golang!
+I'm Farrell Matthew Lim, but people call me Farrell. I'm an undergraduate student at Institut Teknologi Sepuluh Nopember majoring in computer science. I have a strong interest in software engineering, particularly within the React ecosystem and Golang! Currently learning Rust 🦀
 
 ## Statistics
 <a href="https://github.com/tapeds?tab=repositories">
